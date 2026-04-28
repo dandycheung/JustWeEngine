@@ -5,8 +5,8 @@
 [![](https://img.shields.io/badge/downloads-5k%20last%20version-blue.svg)](https://github.com/lfkdsk/JustWeEngine/releases/tag/v1.13)
 [![GitHub release](https://img.shields.io/badge/JustWeEngine-v1.13-green.svg)](https://github.com/lfkdsk/JustWeEngine/releases/tag/v1.13)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/lfkdsk/JustWeEngine)
-  
-  
+
+
 An easy open source Android Native Game FrameWork.  
 
 ## Engine Flow Chart  
@@ -93,7 +93,7 @@ Please send your feedback as long as there occurs any inconvenience or problem. 
 ## License
 
     Copyright 2017 [刘丰恺](http://www.cnblogs.com/lfk-dsk/)
-
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
